@@ -1,4 +1,4 @@
 <h1>What is Bridge?</h1>
 A Work Based Learning degree offers its students the chance to work in an actual workplace, carrying out real-life working tasks, while studying to obtain their degree of third level higher education. This type of degree helps students acquire precious knowledge combining both university courses and working experience. In order to blend these two in an efficient way, WBL students would need to submit artefacts and evidence of their efforts in the workplace, so that the academic supervisors could assess them. The goal of this project is the development of an application that would allow the students to upload this type of proof and provide access to both academics and work managers to review it. Essentially the app bridges the gap between the university and the workplace of the student.
 
-<h2 Look at Bridge Project .pdf for an overview of the project</h2>
+<h2> Look at Bridge Project .pdf for an overview of the project</h2>
